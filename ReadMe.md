@@ -1,5 +1,5 @@
 <h1 align="center">Hi,I'm g0dmax55</h1>
-<h1 align="center">Ethical|Hacker</h1>
+<h2 align="center">Ethical|Hacker</h2>
 <h4 align="center">Welcome to my GitHub Profile</h4>
 
 - 🌱 I’m currently learning **Python**
