@@ -6,15 +6,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [g0dmax55.github.io](g0dmax55.github.io)
+- 👨‍💻 All of my projects are available
 
-- 📝 I regularly write articles on [g0dmax55.github.io](g0dmax55.github.io)
+- 📝 I regularly write articles 
 
 - 💬 Ask me about **CyberSecurity**
 
-- 📫 How to reach me **g0dmax55@protonmail.com**
-
-- 📄 Know about my experiences [g0dmax55.github.io](g0dmax55.github.io)
+- 📫 How to reach me **g0dmax55@protonmail.com
 
 - ⚡ Fun fact **Some times i am a GreyHat Hacker**
 
