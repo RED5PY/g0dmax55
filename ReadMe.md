@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/g0dmax55](https://github.com/g0dmax55)
+- 👨‍💻 All of my projects are available at [github.com/g0dmax55](https://github.com/g0dmax55)
 
 - 📝 I regularly write articles on [g0dmax55.github.io](g0dmax55.github.io)
 
