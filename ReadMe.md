@@ -8,13 +8,10 @@
 </br> 
 <p align="center"> 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-</p>
 </br>
 </br>
 </br>
 
-<!--
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [g0dmax55.github.io](g0dmax55.github.io)
