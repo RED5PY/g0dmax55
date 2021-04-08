@@ -4,7 +4,7 @@
 </p> 
 <p align="center">   <strong><a href="https://g0dmax55.github.io/">Official Website</a></strong> | <strong><a href="https://tryhackme.com/p/g0dmax55">Tryhackme</a></strong>
 
-- 🌱 I’m currently learning **Python <3**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available
 
@@ -17,5 +17,4 @@
 - ⚡ Fun fact **Some times i am a GreyHat Hacker**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://instagram.com/g0dmax55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="g0dmax55" height="30" width="40" /></a>
