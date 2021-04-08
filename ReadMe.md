@@ -4,7 +4,7 @@
 </p> 
 <p align="center">   <strong><a href="https://g0dmax55.github.io/">Official Website</a></strong> | <strong><a href="https://tryhackme.com/p/g0dmax55">Tryhackme</a></strong>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python <3**
 
 - 👨‍💻 All of my projects are available
 
