@@ -4,14 +4,6 @@
 </p> 
 <p align="center">   <strong><a href="https://g0dmax55.github.io/">Official Website</a></strong> | <strong><a href="https://tryhackme.com/p/g0dmax55">Tryhackme</a></strong>
 
-# Languages & Tools 👨‍💻 🛠:
-</br> 
-<p align="center"> 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-</br>
-</br>
-</br>
-
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [g0dmax55.github.io](g0dmax55.github.io)
