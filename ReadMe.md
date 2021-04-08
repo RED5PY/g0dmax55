@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **CyberSecurity**
 
-- 📫 How to reach me **g0dmax55@protonmail.com
+- 📫 How to reach me **g0dmax55@protonmail.com**
 
 - ⚡ Fun fact **Some times i am a GreyHat Hacker**
 
