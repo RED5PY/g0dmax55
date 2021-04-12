@@ -17,5 +17,5 @@
 
 - ⚡ Fun fact **Some Times I Am A GreyHat Hacker**
 
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=g0dmax55&theme=algolia&show_icons=true" alt="g0dmax55"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g0dmax55&theme=algolia&show_icons=true" alt="g0dmax55"/></p>
 
