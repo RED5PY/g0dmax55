@@ -16,7 +16,7 @@
 - 📫 How to reach me **g0dmax55@protonmail.com**
 
 - ⚡ Fun fact **Some Times I Am A GreyHat Hacker**
-- <script src="https://tryhackme.com/badge/289188"></script>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/g0dmax55.png" alt="TryHackMe">
 
 
