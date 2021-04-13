@@ -17,6 +17,6 @@
 
 - ⚡ Fun fact **Some Times I Am A GreyHat Hacker**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/g0dmax55.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/289188"></script>
 
 
