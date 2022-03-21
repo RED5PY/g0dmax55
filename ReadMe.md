@@ -5,7 +5,7 @@
 </p>                                                                                                              
 <p align="center">   <strong><a href="https://g0dmax55.github.io/">Official Website</a></strong> | <strong><a href="https://tryhackme.com/p/g0dmax55">Tryhackme</a></strong>
  
- <script src="https://tryhackme.com/badge/289188"></script>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/g0dmax55.png">
 
 - 🌱 I’m currently learning **Python**
 
