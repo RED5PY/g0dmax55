@@ -26,6 +26,11 @@
 - ⚡ Fun fact **Some Times I Am A GreyHat Hacker**
  
  
+<samp>
+  
+- 👨🏽‍💻 I’m a Security Enthusiast / Pentester
+ 
+ 
  
 
 
