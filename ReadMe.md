@@ -5,7 +5,7 @@
  
  <a href="http://www.github.com/g0dmax55"><img src="https://activity-graph.herokuapp.com/graph?username=g0dmax55&bg_color=1c1917&color=22c55e&line=0891b2&point=22c55e&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<p align="center">   <strong><a href="https://g0dmax55.github.io/">Official Website</a></strong> | <strong><a href="https://tryhackme.com/p/g0dmax55">Tryhackme</a></strong>
+<a href="http://www.github.com/g0dmax55"><img src="https://github-readme-streak-stats.herokuapp.com/?user=g0dmax55&stroke=22c55e&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=22c55e&currStreakLabel=0891b2&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
  </br>
  </br>
  <img src="https://tryhackme-badges.s3.amazonaws.com/g0dmax55.png">
