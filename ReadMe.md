@@ -23,6 +23,9 @@
  
  
 
+<samp>
+  
+- 👨🏽‍💻 I’m a Security Enthusiast / Pentester
 
 
 
