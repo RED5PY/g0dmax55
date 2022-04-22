@@ -3,13 +3,7 @@
 <h2 align="center">Welcome to my GitHub profile !</h2> 
 
  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g0dmax55&theme=algolia&show_icons=true" alt="g0dmax55"/></p>
- 
- <p href="http://www.github.com/g0dmax55"> <img align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g0dmax55&stroke=22c55e&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=22c55e&currStreakLabel=0891b2&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></p>
- 
- 
- 
- 
-</p>                                                                                                              
+                                                                                                            
 <p align="center">   <strong><a href="https://g0dmax55.github.io/">Official Website</a></strong> | <strong><a href="https://tryhackme.com/p/g0dmax55">Tryhackme</a></strong>
  </br>
  </br>
