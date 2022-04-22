@@ -7,6 +7,8 @@
  </br>
  </br>
  <img src="https://tryhackme-badges.s3.amazonaws.com/g0dmax55.png">
+ 
+ <samp>
 
 - 🌱 I’m currently learning **Python**
 
@@ -23,9 +25,9 @@
  
  
 
-<samp>
+
   
-- 👨🏽‍💻 I’m a Security Enthusiast / Pentester
+
 
 
 
