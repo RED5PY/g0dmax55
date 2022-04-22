@@ -8,7 +8,10 @@
  </br>
  <img src="https://tryhackme-badges.s3.amazonaws.com/g0dmax55.png">
  
- <samp>
+ 
+<samp>
+  
+- 👨🏽‍💻 I’m a Security Enthusiast / Pentester
 
 - 🌱 I’m currently learning **Python**
 
