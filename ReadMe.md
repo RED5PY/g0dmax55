@@ -6,7 +6,7 @@
 <p align="center">   <strong><a href="https://g0dmax55.github.io/">Official Website</a></strong> | <strong><a href="https://tryhackme.com/p/g0dmax55">Tryhackme</a></strong>
  </br>
  </br>
- <img src="https://tryhackme-badges.s3.amazonaws.com/g0dmax55.png">
+ src="https://tryhackme-badges.s3.amazonaws.com/g0dmax55.png"
 
 - 👨🏽‍💻 I’m a Security Enthusiast / Pentester
  
